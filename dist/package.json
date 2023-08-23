@@ -1,0 +1,13 @@
+{
+    "name": "@bankza/testza",
+    "version": "0.0.1",
+    "description": "test ja",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "scripts": {
+      "compile": "tsc --build tsconfig.es5.json"
+    },
+    "author": "bank458",
+    "license": "ISC"
+  }
+  

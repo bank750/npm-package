@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "compile": "tsc --build tsconfig.es5.json"
+  },
+  "author": "bank458",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.1.6"
+  }
+}
